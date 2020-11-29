@@ -13,3 +13,5 @@
         - Java
         - Kotlin
         - Visual Studio Code
+        - gradle
+3. Published repo
