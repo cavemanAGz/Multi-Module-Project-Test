@@ -1,3 +1,3 @@
 rootProject.name = "Multi-Module-Project-Test"
 
-include("service", "controller")
+include("service", "controller", "dataservice")

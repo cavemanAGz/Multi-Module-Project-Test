@@ -23,3 +23,6 @@
     - services project
 2. One started with intelliJ new project
     - controllers project
+    
+## Added a new project
+1. Data Service

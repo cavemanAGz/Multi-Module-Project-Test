@@ -45,5 +45,8 @@ subprojects {
         // No version here because of the Plugin version being set above
         plugin("io.spring.dependency-management")
         plugin("org.springframework.boot")
+
+        // Shared dependencies?
     }
+
 }
