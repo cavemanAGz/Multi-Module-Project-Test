@@ -1,11 +1,11 @@
-package com.caveman.controllers
+package com.caveman.service
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class ControllersApplication
+class ServicesApplication
 
 fun main(args: Array<String>) {
-	runApplication<ControllersApplication>(*args)
+	runApplication<ServicesApplication>(*args)
 }

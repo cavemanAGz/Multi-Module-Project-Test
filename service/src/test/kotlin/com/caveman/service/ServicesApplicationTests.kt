@@ -1,4 +1,4 @@
-package com.caveman.services
+package com.caveman.service
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
