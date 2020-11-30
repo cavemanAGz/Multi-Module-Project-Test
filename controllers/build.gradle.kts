@@ -22,11 +22,3 @@ tasks.withType<Test> {
 	useJUnitPlatform()
 }
 
-// Below is managed in parent file
-//
-//tasks.withType<KotlinCompile> {
-//	kotlinOptions {
-//		freeCompilerArgs = listOf("-Xjsr305=strict")
-//		jvmTarget = "1.8"
-//	}
-//}

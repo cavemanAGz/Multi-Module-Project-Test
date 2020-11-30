@@ -1,5 +1,6 @@
 # Trying a multi module project
 ## Steps Taken
+
 1. Created new Gradle project with IntelliJ
     - Added Java and Kotlin
     - Renamed `settings.gradle` and `build.gradle` with `.kts` for kotlin DSL
@@ -15,3 +16,10 @@
         - Visual Studio Code
         - gradle
 3. Published repo
+
+## Added 2 new projects
+
+1. One project started with [start.spring.io](https://start.spring.io)
+    - services project
+2. One started with intelliJ new project
+    - controllers project
