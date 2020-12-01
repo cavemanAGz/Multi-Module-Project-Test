@@ -48,5 +48,4 @@ subprojects {
 
         // Shared dependencies?
     }
-
 }
