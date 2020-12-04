@@ -31,7 +31,17 @@ allprojects {
             jvmTarget = "1.8"
         }
     }
+
+    dependencies {
+
+        // Shared dependencies?
+//        implementation("org.jetbrains.kotlin:kotlin-reflect")
+//        implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
+
+
+    }
 }
+
 
 subprojects {
 
@@ -46,6 +56,5 @@ subprojects {
         plugin("io.spring.dependency-management")
         plugin("org.springframework.boot")
 
-        // Shared dependencies?
     }
 }
